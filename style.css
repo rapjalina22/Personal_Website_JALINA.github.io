@@ -1,0 +1,251 @@
+.header{
+    background-color: rgb(240, 217, 11);
+ 
+    border-left: 2px solid black;
+    border-right:2px solid black ;
+    border-top:2px solid black ;
+    margin:30px;
+    border-radius: 50px;
+    border-bottom-left-radius:0;
+    border-bottom-right-radius:0;
+    margin-bottom:0;
+}
+
+.whole{
+
+size: 100%
+}
+.wholea{
+   
+    size: 100%
+    }
+
+.first{
+background-color: rgb(240, 217, 11);
+width:95.8%;
+display:flex;
+margin:30px;
+padding-left:auto;
+padding-right:auto;
+margin-top:0px;
+border-radius:50%;
+border-left:2px solid black ;
+border-right:2px solid black ;
+border-bottom:2px solid black ;
+border-top-right-radius: 0%;
+border-top-left-radius: 0%;
+
+
+}
+
+.second{
+    background-color: rgb(241, 241, 235);
+    width: 90%;
+    border:2px solid black;
+    border-left:1px solid black;
+    padding:25px;
+    padding-top: 0px;
+    margin:30px;
+    border-radius: 50px;
+    margin-left:auto;
+    margin-right:auto
+}
+
+.bottom{
+    background-color: black;
+    border: 1px solid black;
+    margin:30px;
+    border-radius: 50px;
+}
+.mu{
+    float:inline-end;
+    width:100px;
+}
+.ccs{
+    float:inline-start;
+    width:100px
+}
+.misamis{
+
+}
+
+body{
+    background-image: url('back.jpg');
+    object-fit: contain;
+}
+.me{
+    margin:15px;
+    padding:20px;
+ 
+}
+.me:hover{
+color:red;
+}
+.my{
+    display:block;
+width:300px;
+margin-left:auto;
+margin-right:auto;
+
+}
+.about1{
+   margin-left:27%;
+}
+.menu{
+    background-color: black;
+    color:rgb(236, 158, 14);
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+ 
+ 
+}
+.ab{
+font-size: 30px;
+border-spacing:100px;
+
+}
+.aboutme{
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+background-color: black;
+color:white;
+}
+.contactme{
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+background-color: black;
+color:white;
+
+}
+
+.a:hover, .b:hover, .c:hover, .d:hover, .e:hover, .f:hover{
+background-color: azure;
+}
+
+                
+
+.a{
+    margin-left:130px;
+    border-radius:50%;
+}
+.b, .c, .d, .e, .f{
+    
+    border-radius:50%;
+}
+
+
+th{
+    padding-right:70px;
+    text-align:left;
+}
+
+.ab{
+    float:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+    .abc{
+   
+        margin-left:30%;
+ 
+        font-size: 30px;
+        padding-left:20px;
+    
+}
+.abcd{
+    margin-left:30%;
+    font-size: 30px;
+}
+
+a:link {
+    color: rgb(0, 0, 0);  
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: rgb(71, 11, 21);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  .fb, .insta, .gmail{
+    width:30px;
+  }
+
+.mulogo{
+    width:100px;
+    margin-left:30%
+
+}
+
+.ccslogo{
+    
+    width:100px;
+}
+
+.cont{
+    display:flex;
+}
+
+.home{
+    width:100px;
+    display:block;
+margin-left:auto;
+margin-right:auto;
+margin-top: 20px;
+margin-bottom: 20px;
+
+   
+}
+
+
+
+.taken{
+    margin:0 auto;
+}
+.PIC{
+    WIDTH:300px;
+    border:solid black;
+}
+
+.pagination {
+    display: inline-block;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  
+  .pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+  }
+  
+  .pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .pagination a:hover:not(.active) {background-color: #ddd;}
+
+.item{
+    box-align:center;
+}
+.gall{
+    margin-left:auto;
+    margin-right:auto;
+}
+.miu{
+    margin-left:28%;
+    margin-right:26%;
+    padding-top:23px;
+    
+    
+
+}
+.h{
+    
+text-align:center;
+font-size: 40px;
+}
